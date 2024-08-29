@@ -1,0 +1,38 @@
+agentID	int	NO	PRI		auto_increment
+agentName	varchar(20)	YES			
+phone	varchar(10)	YES			
+
+
+
+CREATE DEFINER=`group058`@`%` PROCEDURE `insertAgent`(name varchar(20), ph int)
+BEGIN
+	insert into agent(agentName, phone) values(name, ph);
+END
+
+
+
+CREATE DEFINER=`group058`@`%` PROCEDURE `display_agent`()
+BEGIN
+	select * from agent;
+END
+
+
+
+CREATE DEFINER=`group058`@`%` PROCEDURE `agentUpdate`(id int, name varchar(20), ph int)
+BEGIN
+	update agent set agentName=name, phone=ph where agentID=id;
+END
+
+
+
+CREATE DEFINER=`group058`@`%` PROCEDURE `agentDetails`( x int)
+BEGIN
+	select * from agent where agentID=x;
+END
+
+
+
+CREATE DEFINER=`group058`@`%` PROCEDURE `agentDelete`(id int)
+BEGIN
+	delete from agent where agentID=id;
+END

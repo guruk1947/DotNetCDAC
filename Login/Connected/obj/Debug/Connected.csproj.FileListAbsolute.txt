@@ -1,0 +1,17 @@
+C:\Users\Group058\source\repos\WebApplication1\Connected\bin\Debug\Connected.exe.config
+C:\Users\Group058\source\repos\WebApplication1\Connected\bin\Debug\Connected.exe
+C:\Users\Group058\source\repos\WebApplication1\Connected\bin\Debug\Connected.pdb
+C:\Users\Group058\source\repos\WebApplication1\Connected\bin\Debug\MySql.Data.dll
+C:\Users\Group058\source\repos\WebApplication1\Connected\bin\Debug\System.Memory.dll
+C:\Users\Group058\source\repos\WebApplication1\Connected\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Group058\source\repos\WebApplication1\Connected\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Group058\source\repos\WebApplication1\Connected\bin\Debug\System.Buffers.dll
+C:\Users\Group058\source\repos\WebApplication1\Connected\bin\Debug\MySql.Data.xml
+C:\Users\Group058\source\repos\WebApplication1\Connected\obj\Debug\Connected.csproj.AssemblyReference.cache
+C:\Users\Group058\source\repos\WebApplication1\Connected\obj\Debug\Connected.Form1.resources
+C:\Users\Group058\source\repos\WebApplication1\Connected\obj\Debug\Connected.Properties.Resources.resources
+C:\Users\Group058\source\repos\WebApplication1\Connected\obj\Debug\Connected.csproj.GenerateResource.cache
+C:\Users\Group058\source\repos\WebApplication1\Connected\obj\Debug\Connected.csproj.CoreCompileInputs.cache
+C:\Users\Group058\source\repos\WebApplication1\Connected\obj\Debug\Connected.csproj.Up2Date
+C:\Users\Group058\source\repos\WebApplication1\Connected\obj\Debug\Connected.exe
+C:\Users\Group058\source\repos\WebApplication1\Connected\obj\Debug\Connected.pdb

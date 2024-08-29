@@ -1,0 +1,17 @@
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\obj\Debug\ConnectedArch.csproj.AssemblyReference.cache
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\obj\Debug\ConnectedArch.Properties.Resources.resources
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\obj\Debug\ConnectedArch.csproj.GenerateResource.cache
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\obj\Debug\ConnectedArch.csproj.CoreCompileInputs.cache
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\bin\Debug\ConnectedArch.exe.config
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\bin\Debug\ConnectedArch.exe
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\bin\Debug\ConnectedArch.pdb
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\bin\Debug\MySql.Data.dll
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\bin\Debug\System.Memory.dll
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\bin\Debug\System.Buffers.dll
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\bin\Debug\MySql.Data.xml
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\obj\Debug\ConnectedArch.Form1.resources
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\obj\Debug\Connecte.7F0D5DB4.Up2Date
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\obj\Debug\ConnectedArch.exe
+C:\Users\Group059\source\repos\DataBaseCon\ConnectedArch\obj\Debug\ConnectedArch.pdb

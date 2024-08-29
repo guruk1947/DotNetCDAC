@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Group058\\source\\repos\\WebApplication1\\webapplication1\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Group058\\source\\repos\\WebApplication1\\webapplication1\\views\\agent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\agent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|c:\\users\\group058\\source\\repos\\webapplication1\\webapplication1\\views\\agent\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\agent\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Group058\\source\\repos\\WebApplication1\\webapplication1\\views\\agent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\agent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Group058\\source\\repos\\WebApplication1\\webapplication1\\dal\\agentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dal\\agentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Group058\\source\\repos\\WebApplication1\\webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|c:\\users\\group058\\source\\repos\\webapplication1\\webapplication1\\dal\\iagentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dal\\iagentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Group058\\source\\repos\\WebApplication1\\webapplication1\\models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Group058\\source\\repos\\WebApplication1\\webapplication1\\views\\agent\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\agent\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Group058\\source\\repos\\WebApplication1\\webapplication1\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Group058\\source\\repos\\WebApplication1\\webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69885107-FE51-40BE-A178-FF3CDAB58281}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Agent\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Agent\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Agent\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Agent\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T13:51:23.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Agent\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Agent\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Agent\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Agent\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwC4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:47:16.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Agent\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Agent\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Agent\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Agent\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:08:02.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgentController.cs",
+              "DocumentMoniker": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\AgentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AgentController.cs",
+              "ToolTip": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\AgentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AgentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:56:40.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgentDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\DAL\\AgentDAL.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DAL\\AgentDAL.cs",
+              "ToolTip": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\DAL\\AgentDAL.cs",
+              "RelativeToolTip": "WebApplication1\\DAL\\AgentDAL.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:17:51.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAgentDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\DAL\\IAgentDAL.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DAL\\IAgentDAL.cs",
+              "ToolTip": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\DAL\\IAgentDAL.cs",
+              "RelativeToolTip": "WebApplication1\\DAL\\IAgentDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:15:25.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Agent.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Agent.cs",
+              "ToolTip": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Agent.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Agent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:13:42.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\App_Start\\UnityConfig.cs",
+              "ToolTip": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "WebApplication1\\App_Start\\UnityConfig.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwC0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:00:42.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Global.asax.cs",
+              "RelativeToolTip": "WebApplication1\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:53:53.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Web.config",
+              "ToolTip": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Web.config",
+              "RelativeToolTip": "WebApplication1\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-01T10:51:29.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Agent\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Agent\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Group058\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Agent\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Agent\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:12:59.989Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
